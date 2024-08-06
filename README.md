@@ -42,7 +42,7 @@ Here are some packages you need to have installed on your PC:
 
 1. Clone this repo
    ```sh
-   git clone https://github.com/identity-verification-system.git
+   git clone https://github.com/victorali32/identity-verification-dapp.git
    ```
 2. Install NPM packages
    ```sh
